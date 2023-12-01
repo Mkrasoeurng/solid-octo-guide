@@ -1,0 +1,17 @@
+1701357026491,2023.11.30 22:10:26.491,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7c01d20800 dwIndex=0,out of range
+1701357026532,2023.11.30 22:10:26.532,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7bd1128000 dwIndex=0,out of range
+1701357026550,2023.11.30 22:10:26.550,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7b98229000 dwIndex=0,out of range
+1701357052986,2023.11.30 22:10:52.986,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7c01d20800 dwIndex=0,out of range
+1701357052995,2023.11.30 22:10:52.995,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7b11c51800 dwIndex=0,out of range
+1701357053031,2023.11.30 22:10:53.031,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7b621cb000 dwIndex=0,out of range
+1701357053041,2023.11.30 22:10:53.041,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7b621cb800 dwIndex=0,out of range
+1701357099533,2023.11.30 22:11:39.533,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7b6204e000 dwIndex=0,out of range
+1701357099563,2023.11.30 22:11:39.563,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7c01a11000 dwIndex=0,out of range
+1701357099571,2023.11.30 22:11:39.571,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7c01a11800 dwIndex=0,out of range
+1701357111345,2023.11.30 22:11:51.345,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7ac0e90800 dwIndex=0,out of range
+1701357111371,2023.11.30 22:11:51.371,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7adef47000 dwIndex=0,out of range
+1701357111380,2023.11.30 22:11:51.380,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7b982ca000 dwIndex=0,out of range
+1701357146684,2023.11.30 22:12:26.684,ERROR,PRETTY_LOGGER,ModuleID(0x1000)----virtual MRESULT CVEThreadVideoComposer::DoDecoding()----ERR----0x7bd95c7400 no more decoding,goto exit
+1701360117313,2023.11.30 23:01:57.313,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7bb5dd8000 dwIndex=0,out of range
+1701360117418,2023.11.30 23:01:57.418,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7bd5928000 dwIndex=0,out of range
+1701360117441,2023.11.30 23:01:57.441,ERROR,PRETTY_LOGGER,ModuleID(0x40)----MRESULT CVEBaseClip::GetEffectByGroup(MDWord, MDWord, MDWord, void**)----ERR----0x7bd59ee800 dwIndex=0,out of range
