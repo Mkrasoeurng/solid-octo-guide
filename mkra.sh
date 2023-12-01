@@ -1,9 +1,4 @@
 
-
-#Denial Of Service and ddos attack 
-# Author :- •⊱•Mrlinkerrorsystem
-# WhatsApp :- 081249281196
-#RECODE ©®
 clear
 blue='\033[34;1m'
 green='\033[32;1m'  
